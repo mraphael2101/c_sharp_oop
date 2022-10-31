@@ -16,10 +16,12 @@
     <None Remove="animals_and_behaviours\" />
     <None Remove="delegate_examples\" />
     <None Remove="type_examples\" />
+    <None Remove="test_suites\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="animals_and_behaviours\" />
     <Folder Include="delegate_examples\" />
     <Folder Include="type_examples\" />
+    <Folder Include="test_suites\" />
   </ItemGroup>
 </Project>
