@@ -1,7 +1,7 @@
 ﻿using System;
 namespace assessment_oop_c_sharp_solved2.delegate_examples
 {
-    public class _01_Delegate_Program
+    public class _01b_Delegate_Program
     {
         public delegate string OperationDelegate(int x, int y);
 

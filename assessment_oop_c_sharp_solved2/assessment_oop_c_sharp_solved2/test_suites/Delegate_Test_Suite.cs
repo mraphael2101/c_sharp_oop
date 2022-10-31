@@ -6,9 +6,15 @@ namespace assessment_oop_c_sharp_solved2
     public class Delegate_Test_Suite
     {
         [Test]
-        public void Test1()
+        public void Test1a()
         {
-            new _01_Delegate_Program().Start();
+            new _01a_Delegate_Program().Start();
+        }
+
+        [Test]
+        public void Test1b()
+        {
+            new _01b_Delegate_Program().Start();
         }
 
         [Test]

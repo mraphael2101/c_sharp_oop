@@ -28,7 +28,6 @@ namespace assessment_oop_c_sharp_solved2.type_examples
             new Pojo() { name = "Mark" }
         };
 
-
         public static HashSet<int> mySet = new HashSet<int>()
         {
             1,
